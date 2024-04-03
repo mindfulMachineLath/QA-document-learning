@@ -1,4 +1,4 @@
-# AI Starter Kit
+# AI QA over PDF & documents
 
 A **minimal** code base for creating AI apps to do Question Answering (QA) over PDF documents, completely **locally**.
 
@@ -66,6 +66,3 @@ You can change configurations in `.config` file, such as the _embedding model_, 
 
 Although current app only support pdf files, it's very straightforward to add other types of files such as text files, etc. Also, you can easily add the open-ended chat in addition to QA over document use case.
 
-## Discussion and Contribution
-
-If you have any comment or feedback, please don't hesitate to use the `Discussions` section and open a new topic. You can also reach out directly via [Linkedin](https://www.linkedin.com/in/mehdiallahyari/) or [Twitter](https://twitter.com/MehdiAllahyari)
